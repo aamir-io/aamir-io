@@ -27,5 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aamir-io&show_icons=true&locale=en" alt="aamir-io" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aamir-io&" alt="aamir-io" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aamir-io&show" alt="aamir-io" /></p>
 
