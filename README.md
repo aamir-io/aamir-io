@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aamir Ullah</h1>
 <h3 align="center">"Crafting Dynamic Web Experiences with MERN Stack and Python Expertise"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aamir-io&label=Profile%20views&color=0e75b6&style=flat" alt="aamir-io" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aamir-ullah-offical&label=Profile%20views&color=0e75b6&style=flat" alt="aamir-ullah-offical" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aamir-io" alt="aamir-io" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aamir-ullah-offical" alt="aamir-ullah-offical" /></a> </p>
 
 - 🌱 I’m currently learning **"On a Journey to Master the MERN Stack"**
 
